@@ -1,3 +1,5 @@
+**Bug reports**
+
 1.
 
 **Summary:** Lack of Responsiveness on Web Page
